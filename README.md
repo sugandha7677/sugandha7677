@@ -58,11 +58,10 @@ I enjoy owning problems end to end — from understanding requirements and reaso
 ---
 
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugandha7677&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugandha7677&layout=compact&hide_border=true" height="165"/>
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>
 </p>
-
-
 ---
