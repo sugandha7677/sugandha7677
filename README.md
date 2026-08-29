@@ -64,4 +64,3 @@ I enjoy owning problems end to end — from understanding requirements and reaso
   <img src="./profile/stats.svg" height="165"/>
   <img src="./profile/top-langs.svg" height="165"/>
 </p>
----
